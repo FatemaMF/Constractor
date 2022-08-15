@@ -23,5 +23,6 @@ Cconstractor c3=c1;
 		// type 'Long'.
 		
 		//Geek geek4 = new Geek(325614567);
+		System.out.println("test1");
 	}
 }
